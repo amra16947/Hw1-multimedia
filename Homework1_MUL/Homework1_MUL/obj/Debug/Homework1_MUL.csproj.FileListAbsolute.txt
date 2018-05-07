@@ -1,0 +1,12 @@
+C:\Users\Amra\Desktop\Homework1_MUL\Homework1_MUL\bin\Debug\Homework1_MUL.exe.config
+C:\Users\Amra\Desktop\Homework1_MUL\Homework1_MUL\obj\Debug\Homework1_MUL.csprojResolveAssemblyReference.cache
+C:\Users\Amra\Desktop\Homework1_MUL\Homework1_MUL\bin\Debug\Homework1_MUL.exe
+C:\Users\Amra\Desktop\Homework1_MUL\Homework1_MUL\bin\Debug\Homework1_MUL.pdb
+C:\Users\Amra\Desktop\Homework1_MUL\Homework1_MUL\obj\Debug\Homework1_MUL.exe
+C:\Users\Amra\Desktop\Homework1_MUL\Homework1_MUL\obj\Debug\Homework1_MUL.pdb
+C:\Homework1_MUL\Homework1_MUL\bin\Debug\Homework1_MUL.exe.config
+C:\Homework1_MUL\Homework1_MUL\obj\Debug\Homework1_MUL.exe
+C:\Homework1_MUL\Homework1_MUL\obj\Debug\Homework1_MUL.pdb
+C:\Homework1_MUL\Homework1_MUL\bin\Debug\Homework1_MUL.exe
+C:\Homework1_MUL\Homework1_MUL\bin\Debug\Homework1_MUL.pdb
+C:\Homework1_MUL\Homework1_MUL\obj\Debug\Homework1_MUL.csprojResolveAssemblyReference.cache
